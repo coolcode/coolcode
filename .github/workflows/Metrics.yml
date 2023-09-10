@@ -26,7 +26,8 @@ jobs:
 
           plugin_languages: yes  # отображение применяемых языков программирования
           plugin_languages_details: lines, percentage  # bytes-size, дополнительная информация о коде размер и процент
-
+ 
+          
           plugin_calendar: yes  # отображает активность по годам от текущего и далее
           plugin_calendar_limit: 5 # отображает активность за столько лет
 
@@ -35,7 +36,7 @@ jobs:
           plugin_habits_charts: yes  # отображает характеристики
 
           plugin_topics: yes  # плагин ипсользуемых тем
-          plugin_topics_limit: 0
+          plugin_topics_limit: 10
           plugin_topics_mode: icons
           
           plugin_licenses: yes  # информация о лицензиях
