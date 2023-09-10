@@ -61,10 +61,9 @@ counting of visitors to this page in this section started from Sept 9, 2023
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=coolcode/coolcode&type=Date)](https://star-history.com/#coolcode/coolcode&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=coolcode/tomato-clock&type=Date)](https://star-history.com/#coolcode/coolcode&Date)
 
 </br>
-[MIT](LICENSE)
 
 
 ---
