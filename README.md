@@ -44,6 +44,9 @@
 
 
 ### Profile Views 
+
+counting of visitors to this page in this section started from Sept 9, 2023
+
 ![](https://count.getloli.com/get/@coolcode.github.readme)
 
 
@@ -52,9 +55,9 @@
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/coolcode/count.svg">  
 
-counting of visitors to this page in this section started from Sept 9, 2023
 <a href="https://info.flagcounter.com/ctCk"><img src="https://s11.flagcounter.com/count2/ctCk/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+</p>
 
 ## Star History
 
@@ -64,17 +67,10 @@ counting of visitors to this page in this section started from Sept 9, 2023
 [MIT](LICENSE)
 
 
-</p>
-
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
-Would you ike to meet me?
 
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
----
 
 ![](assets/Bottom_down.svg)
