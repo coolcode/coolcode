@@ -26,7 +26,10 @@ jobs:
 
           plugin_languages: yes  # отображение применяемых языков программирования
           plugin_languages_details: lines, bytes-size, percentage  # bytes-size, дополнительная информация о коде размер и процент
- 
+          plugin_languages_indepth: true
+          # metrics.cpu.overuse
+# metrics.run.tempdir
+# metrics.run.git
           
           plugin_calendar: yes  # отображает активность по годам от текущего и далее
           plugin_calendar_limit: 5 # отображает активность за столько лет
